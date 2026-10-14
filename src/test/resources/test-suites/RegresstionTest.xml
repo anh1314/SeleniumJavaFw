@@ -1,0 +1,18 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Run auto check number of use and quota" verbose="1" parallel="classes">
+    <parameter name="HEADLESS" value="true"/>
+
+    <parameter name="env" value="uat"/>
+    <test name="Run auto check number of use and quota" parallel="methods">
+        <classes>
+
+            <class name="testcases.ecoCardPortal.LoginTest">
+<!--                <methods>-->
+<!--                    <include name="testLoginSuccess"/>-->
+<!--                </methods>-->
+            </class>
+
+
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,52 @@
+{
+   "company_id | company_id_consumer": {
+      "616747": "COMP_A",
+      "631341": "COMP_B",
+      "617895": "COMP_C",
+      "632161": "COMP_D",
+      "631797": "COMP_E",
+      "616399": "IDNCC_A",
+      "617897": "IDNCC_B",
+      "636943": "IDNCC_C",
+      "636539": "COMP-CONS_A",
+      "636537": "COMP-CONS_B",
+      "636533": "COMP-CONS_C",
+      "617835": "COMP-CONS_D",
+      "639311 ": "COMP-CONS_E"
+   },
+   "MaNPP_DSNPP": {
+      "CN0616747": "NPP1",
+      "CN0631341": "NPP2",
+      "CN0617895": "NPP3",
+      "CN0632161": "NPP4",
+      "CN0631797": "NPP5",
+      "CN0616399": "NCC1",
+      "CN0617897": "NCC2",
+      "CN0636943": "NCC3",
+      "CN0636539": "NPPCONS1",
+      "CN0636537": "NPPCONS2",
+      "CN0636533": "NPPCONS3",
+      "CN0617835": "NPPCONS4",
+      "CN0639311": "NPPCONS5"
+   },
+   "sku|SKU_DSSP": {
+      "SKUP118135V334765": "SKUA2",
+      "SKUP118127V334757": "SKUA1",
+      "SKUP118129V334759": "SKUA3",
+      "SKUP118113V334703": "SKUB1",
+      "SKUP118117V334707": "SKUB2",
+      "SKUP118133V334763": "SKUB3",
+      "SKUP118115V334705": "SKUC1",
+      "SKUP118131V334761": "SKUAC2",
+      "SKUP118141V334793": "SKUAD1",
+      "SKUP118139V334791": "SKUAD2",
+      "SKUP118145V334797": "SKUAD3",
+      "SKUP118143V334795": "SKUAD4"
+   },
+   "DSMaNganhHang_DieuKien_DK1|DSMaNganhHang_DieuKien_DK2|DSMaNganhHang_DieuKien_DK3": {
+      "1435": "NH1",
+      "1473": "NH2",
+      "1467": "NH3",
+      "1479": "NH4"
+   }
+}
